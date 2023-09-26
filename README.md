@@ -3,12 +3,8 @@
 this repository contains supporting information to the manuscript:<br>
 Nguyen Trung, M., Kieninger, S., ... B. G. Keller, Fiedler, D. (2022).
 **"Stable isotopomers of *myo*-inositol to uncover the complex MINPP1-dependent inositol phosphate network"**, 
-<br>
 ACS Central Science, 8(12), 1683-1694.<br>
 https://doi.org/10.1021/acscentsci.2c01032
-
-
-preprint: https://doi.org/10.1101/2022.08.29.505671 (2022)
 <br>
 
 In our work, we numerically analyzed experimentally determined progress curves for the MINPP1 mediated dephosphorylation of InsP<sub>5</sub>[2OH] and InsP<sub>6</sub>.
